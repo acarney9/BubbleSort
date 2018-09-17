@@ -1,0 +1,10 @@
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.csprojResolveAssemblyReference.cache
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.Form1.resources
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.Properties.Resources.resources
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.csproj.GenerateResource.Cache
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\bin\Debug\BubbleSortExample.exe.config
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\bin\Debug\BubbleSortExample.exe
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\bin\Debug\BubbleSortExample.pdb
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.exe
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.pdb
+D:\CIS 266\ch7\BubbleSortExample\BubbleSortExample\obj\Debug\BubbleSortExample.csproj.CoreCompileInputs.cache
